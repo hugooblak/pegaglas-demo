@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Pega Glas AB',
+	'bransch'        => 'Glasmästare',
 	'telefon'        => '060-61 42 00',
 	'telefon_tel'    => '+4660614200',
 	'ort'            => 'Sundsvall',
